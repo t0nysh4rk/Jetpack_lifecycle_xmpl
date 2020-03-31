@@ -1,4 +1,4 @@
-Testing Jetpack Activity lifecycle library.
+Testing Jetpack Activity lifecycle library + Timber logging library.
 # Activity Lifecycle - DessertPusher
 
 ## DessertPusher
